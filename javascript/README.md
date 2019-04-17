@@ -1,6 +1,6 @@
-# Guia rápido JavaScript ES6
+# Guia rápido JavaScript ES6 - Configurando o ambiente
 
-Este tutorial tem como objetivo de mostrar rapidamente tudo que você precisa iniciar seu projeto JavaScript.
+Este tutorial tem como objetivo de mostrar rapidamente tudo que você precisa iniciar seu projeto JavaScript, configurando o ambiente para produção.
 
 O que você vai aprender:
 
