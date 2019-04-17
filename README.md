@@ -12,6 +12,7 @@ Sinta-se à vontade para contribuir!
 # Index
 
 * [JavaScript](/javascript)
+* [Python](/python)
 
 # Contributors:
 
