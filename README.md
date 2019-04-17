@@ -52,7 +52,7 @@ Nosso próximo passo será criar alguns arquivos de configuração na raiz do no
 *.babelrc*
 ```json
 {
-    "presets": "[@babel/preset-env"]
+    "presets": ["@babel/preset-env"]
 }
 ```
 
