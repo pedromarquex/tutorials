@@ -3,10 +3,9 @@ Este repositório tem o propósito de reunir alguns tutoriais sobre linguagens d
 
 Reuniremos turoriais sobre:
 * Configuração de ambientes
-* Instalação de dependencias
-* Atualização de dependencias
-
-E muito mais!
+* Instalação e atualização de dependencias
+* Resolução de erros comuns
+* E muito mais!
 
 Sinta-se à vontade para contribuir!
 
