@@ -9,6 +9,10 @@ Reuniremos turoriais sobre:
 
 Sinta-se à vontade para contribuir!
 
+# Index
+
+* [JavaScript](/javascript)
+
 # Contributors:
 
 [pedromarquex](https://github.com/pedromarquex) - Initial Work
