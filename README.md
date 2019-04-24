@@ -13,6 +13,7 @@ Sinta-se à vontade para contribuir!
 
 * [JavaScript](/javascript)
 * [Python](/python)
+* [PHP](/PHP)
 
 # Contributors:
 
